@@ -1,0 +1,52 @@
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\bin\Debug\MetroFramework.dll
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CopyComplete
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.login.resources
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.home.resources
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.book.resources
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.students.resources
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.give_book.resources
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\bin\Debug\library.mdf
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\bin\Debug\_log.ldf
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\bin\Debug\library_log.ldf
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Administrator.resources
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.SubForm_changeForget.resources
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.SubForm_ChangeUser.resources
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form_forgetPassword.resources
+C:\Users\ACER\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.payments.resources
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\bin\Debug\library.mdf
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\bin\Debug\library_log.ldf
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\bin\Debug\_log.ldf
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.Administrator.resources
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.book.resources
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.Form_forgetPassword.resources
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.give_book.resources
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.home.resources
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.login.resources
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.payments.resources
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.students.resources
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.SubForm_changeForget.resources
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.SubForm_ChangeUser.resources
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.csproj.CopyComplete
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\User\Desktop\GUI CW2 - Library Management System\LibraryManagement\obj\Debug\LibraryManagement.pdb
